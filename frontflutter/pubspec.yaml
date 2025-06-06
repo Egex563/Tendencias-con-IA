@@ -1,0 +1,12 @@
+name: mi_proyecto_registro # o el nombre que le hayas dado a tu proyecto
+description: A new Flutter project.
+
+# Asegúrate de que esta sección exista y tenga la restricción.
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Esta es una restricción común y segura
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0 # o la versión que estés usando
+  # ... otras dependencias
